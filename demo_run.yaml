@@ -1,0 +1,7 @@
+ops:
+  load_input:
+    config:
+      input_path: artifacts/demo.json
+  publish:
+    config:
+      output_dir: artifacts/results
